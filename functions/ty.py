@@ -167,7 +167,7 @@
 #     return ebob
 # num1=int(input("Enter firs number : "))
 # num2=int(input("Enter second number : "))
-# print("Ebob : ",S(num1,num2))
+
 
 
 
